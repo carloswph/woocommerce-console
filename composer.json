@@ -1,0 +1,15 @@
+{
+    "name": "carloswph/woocommerce-console",
+    "description": "CLI tools and helpers for developing Woocommerce extensions and add-ons.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Carlos Matos",
+            "email": "carlos@wp-helpers.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.2"
+    },
+    "bin": ["bin/carloswph"]
+}
